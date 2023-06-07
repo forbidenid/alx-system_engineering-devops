@@ -1,1 +1,2 @@
-this is a bash script that changes the current working directory to home when executed 
+#!/bin/bash
+cd ~
