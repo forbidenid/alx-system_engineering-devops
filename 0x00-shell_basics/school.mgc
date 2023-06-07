@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -p welcome/to/school
+echo '0 string SCHOOL School data file' > school.magic && file -C -m school.magic school.mgc && rm school.magic
