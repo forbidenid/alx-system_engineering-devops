@@ -1,2 +1,2 @@
 #!/bin/bash
-echo '0 string SCHOOL School data file' > school.magic && file -C -m school.magic school.mgc && rm school.magic
+0 string SCHOOL school data! :mime school
