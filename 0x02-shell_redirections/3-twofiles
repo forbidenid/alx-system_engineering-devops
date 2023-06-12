@@ -1,2 +1,2 @@
 #!/bin/bash
-cat /etc/passwd; cat /etc/hosts
+echo "Content of /etc/passwd:"; cat /etc/passwd; echo "Content of /etc/hosts:"; cat /etc/hosts
