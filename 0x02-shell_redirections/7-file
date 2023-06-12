@@ -1,2 +1,2 @@
 #!/bin/bash
-touch -- "$(cat << 'EOF'\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)EOF)"
+echo Best School > '\*\\'"'"'"Best School"\'"'"'\\*$\?\*\*\*\*\*:)'
